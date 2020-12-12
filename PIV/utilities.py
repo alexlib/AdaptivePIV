@@ -275,7 +275,7 @@ def root_path():
         else:
             return "C:/Users/Matt/MyDocuments/General/PhD/"
     else:
-        return "/newhome/me12288/"
+        return "./PIV/Data/"
 
 
 def plot_adjacent_images(ia, ib,
